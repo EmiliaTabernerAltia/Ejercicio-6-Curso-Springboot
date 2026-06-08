@@ -6,10 +6,10 @@ Proyecto de microservicios con Docker desarrollado como parte del curso de Sprin
 
 ## Microservicios
 
-| Servicio | Imagen | Host | Puerto Externo | Puerto Interno |
+| Servicio | Imagen | Puerto Externo | Puerto Interno |
 |---|---|---|---|---|
-| `41_curso_docker` | `imagencurso` | localhost | `9000` | `8081` |
-| `42_formacion_docker` | `imagenformacion` | localhost | `9001` | `8082` |
+| `41_curso_docker` | `imagencurso` | `9000` | `8081` |
+| `42_formacion_docker` | `imagenformacion` | `9001` | `8082` |
 
 ---
 
