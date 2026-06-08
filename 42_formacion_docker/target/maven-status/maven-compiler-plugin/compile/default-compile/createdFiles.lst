@@ -1,0 +1,6 @@
+com\curso\model\Curso.class
+com\curso\service\FormacionService.class
+com\curso\service\FormacionServiceImpl.class
+com\curso\controller\FormacionController.class
+com\curso\inicio\Application.class
+com\curso\model\Formacion.class
